@@ -1,5 +1,7 @@
 ## Getting Started
 
+Desafio do bootcamp java back end, referente a sintaxe java sobre uma conta bancária onde ao final deverá exibir no terminal os dados da conta do cliente.
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
